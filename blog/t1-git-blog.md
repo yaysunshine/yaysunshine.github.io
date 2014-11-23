@@ -1,7 +1,3 @@
-What are the benefits of version control?
-How does git help you keep track of changes?
-Why use GitHub to store your code?
-
 Git It Together
 
 A diary for newbies
