@@ -10,7 +10,7 @@ h1 {
 
 h2 {
 	color: white;
-	font-size: 20px;
+	font-size: 26px;
 	font-family: verdana;
 }
 
@@ -59,3 +59,13 @@ td {
 }
 
 /*CF7C00*/
+
+.blogposts {
+	font-family: sans-serif;
+	font-size: 26px;
+	color: #2B2B2B;
+	width: 300px;
+	height: 300px;
+	margin-left: 40%;
+	border: 2px solid #261400;
+}
