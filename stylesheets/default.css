@@ -1,0 +1,61 @@
+html {
+	background-color: gray;
+}
+
+h1 {
+	color: white;
+	font-size: 44px;
+	font-family: verdana;
+}
+
+h2 {
+	color: white;
+	font-size: 20px;
+	font-family: verdana;
+}
+
+.index {
+	border: 3px solid #A60042;
+}
+
+#me {
+	width: 200px;
+	height: 250px;
+	position: fixed;
+	margin-left: 80%;
+	margin-top: 2.5%;
+	border: 1px solid #261400;
+}
+
+.indextable {
+	margin-top: 1%;
+	color: white;
+	font-size: 28px;
+	font-family: Verdana;
+	position: relative;
+	margin-left: 20px;
+}
+
+td {
+	height: 50px;
+	width: 50px;
+}
+
+.center {
+	text-align: center;
+	margin-left: 400px;
+	margin-right: 400px;
+	color: #2B2B2B;
+	font-size: 30px;
+	font-family: sans-serif;
+}
+
+.social {
+	height: 40px;
+	width: 40px;
+	display: inline-block;
+	position: static;
+	float: left;
+}
+
+/*CF7C00*/
