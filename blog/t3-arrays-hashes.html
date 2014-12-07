@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Catie Kennedy Blog</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="../stylesheets/blog-stylesheet.css">
+    <link rel="stylesheet" type="text/css" href="../stylesheets/default.css">
+  </head><div></div>
+
+  <div></div>
+
+    <div id="header">
+      <h4>
+        <a href="https://www.youtube.com/watch?v=Imlidk02J0s">here's some good coding music from me to you
+          <img class="me" src="http://media-cache-ak0.pinimg.com/736x/02/83/04/02830416ce242f52aa5ddce3a82ed2f6.jpg"/>
+        </a>
+        <a href="https://www.youtube.com/watch?v=gx4rsZkCCss">
+          <img class="me" src="http://media-cache-ec0.pinimg.com/736x/d2/9c/79/d29c79a4698b5606ee7a8e07ff3cffed.jpg"/>
+        </a>
+        <a href="https://www.youtube.com/watch?v=E8b4xYbEugo">
+          <img class="me" src="http://media-cache-ec0.pinimg.com/736x/91/7f/3b/917f3b49c73f26b522ccc2d8439b69a6.jpg"/>
+        </a>
+        <a href="https://www.youtube.com/watch?v=1osmNEp2XGc">
+          <img class="me" src="http://media-cache-ak0.pinimg.com/736x/47/7a/1a/477a1a5547d9b92684c34ddaa335a55b.jpg"/>
+        </a>
+        <a href="https://www.youtube.com/watch?v=OPf0YbXqDm0">
+          <img id="here" src="http://media-cache-ec0.pinimg.com/736x/93/04/d9/9304d993324ae3ffdc0ff9b30a6fb292.jpg"/>
+        </a>
+      </h4> 
+    </div>
+
+    <ul>
+      <table class="indextable">
+        <tr>
+          <td><li>
+            <a class="indextable" href="http://yaysunshine.github.io/blog/index.html">Home</a>
+          </li><td>
+        </tr>
+        <tr>
+          <td><li>
+            <a class="indextable" href="http://yaysunshine.github.io/blog/blog-page.html">Writings</a>
+          </li></td>
+        </tr>
+        <tr>
+          <td><li>
+            <a class="indextable" href="#">Projects</a>
+          </li></td>
+        </tr>
+        <tr>
+          <td><li>
+            <a class="indextable" href="#">Resume</a>
+          </li></td>
+        </tr>
+        <tr>
+          <td><li>
+            <a class="indextable" href="#">Contact</a>
+          </li></td>
+        </tr>
+      </table>
+    </ul>
+
+  <body>
+    <main>
+      <h1>Array We Go</h1>
+      <h3>Arrays and Hashes</h3>
+      <h4>6 Dec 2014</h4>
+
+      <section>
+        <p>
+           Ruby is my first coding language, my baby steps, my rock from which to build. The only problem I have always had (up until this week) with Ruby, is its arrays. Like what. What does that even mean. Do I display an array to go play in Bombay? Am I "array"nging something? WhAt Do I dO.o?
+        </p>
+        <p>
+          So beyond all that confusion, arrays are literally lists. They are just lists. Of things. That's it. The catch: the first item on the list is the "zeroth" item. Not the first, the zeroth. For instance, let's name an array "week_days":
+        </p>
+        <p class="code">
+          week_days = []
+        </p>
+        <p>
+          Note the syntax: array, then equal sign, then brackets. Right now this array is empty. Let's fill it with...oh how about week days!
+        </p>
+        <p class="code">
+          week_days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+        </p>
+        <p>
+          Again, syntax note: the items within an array are surrounded by quotes and separated by commas. Right now, Monday is in the zeroth slot, Tuesday in the first, Wednesday in the second, and so on. If we want Friday, we put:
+        </p>
+        <p class="code">
+          week_days[4] = "Friday"
+        </p>
+        <p>
+          Arrays are time savers. If we wanted to make the weeks days all lowercase, we would simply code for that on the array week_days instead of changing each day individually. It is also possible to add, or concatenate, two arrays:
+        <p class="code">
+          week_days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+          week_ends = ["Saturday", "Sunday"]
+
+          week_days + week_ends = third_array          
+        </p>
+        <p>
+          Want to guess what the third_array looks like?
+        </p>
+        <p class="code">
+          third_array = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+        </p>
+        <p>
+          AWESOME! Now, hashes. Hashes, like arrays, store objects, but they need a KEY and a VALUE. Because of their different needs, hashes have a different syntax from arrays:
+        </p>
+        <p class="code">
+          hash = { key => value }
+        </p>
+        <p>
+          Why even bother? Well if you need to keep track of what Spongebob and Patrick's last names, you need to assign the key (Spongebob / Patrick) to the value (last name / last name). Let's call this hash awesome_show:
+        </p>
+        <p class="code">
+          awesome_show = {
+            "Spongebob" => "SquarePants"
+            "Patrick" => "Star" 
+          }
+        </p>
+        <p>
+          Done! Thanks for reading.
+        <p><em>~ Catie Kennedy ~</em></p>
+      </section>
+    </main>
+  </body>
+
+  <div class="index"></div>
+
+    <div id="footer">
+      <h4><a href="https://www.linkedin.com/profile/view?id=378480344&trk=nav_responsive_tab_profile_pic">Link with me
+          <img class="social" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSC9Z5dKXmJffIX-4L47xHnQnIadEduc3WseA3NEdAvCtVmhkGzpw"/>
+        </a>
+      </h4>
+      <h4><a href="https://twitter.com/ckennedyay?lang=en">
+          <img class="social" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP9jJ1vbf9ImUkJgGTc4fZ-64yss3IBOirg5ux6DTVs_A4FDIK"/>Tweet with me
+        </a>
+      </h4>
+      <h4><a href="https://github.com/yaysunshine">
+          <img class="social" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRBvge7GZIGXoOtCUcgsd_EjbEmCId0s5_xp1KIQoH4CDJypY8"/>Git with me
+        </a>
+      </h4>
+    </div>
+</html>
