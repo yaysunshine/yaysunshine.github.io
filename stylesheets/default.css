@@ -3,15 +3,15 @@ html {
 }
 
 h1 {
-	color: white;
+	color: #990000;
 	font-size: 44px;
-	font-family: verdana;
+	font-family: Times;
 }
 
 h2 {
-	color: white;
+	color: gray;
 	font-size: 26px;
-	font-family: verdana;
+	font-family: Times;
 }
 
 .index {
@@ -29,9 +29,9 @@ h2 {
 
 .indextable {
 	margin-top: 1%;
-	color: white;
+	color: gray;
 	font-size: 28px;
-	font-family: Verdana;
+	font-family: verdana;
 	position: relative;
 	margin-left: 20px;
 }
@@ -68,4 +68,10 @@ td {
 	height: 300px;
 	margin-left: 40%;
 	border: 2px solid #261400;
+}
+
+.code {
+	font-family: Times;
+	font-size: 26px;
+	color: #2B2B2B;
 }
