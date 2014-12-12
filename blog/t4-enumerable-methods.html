@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Catie Kennedy Blog</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="../stylesheets/blog-stylesheet.css">
+    <link rel="stylesheet" type="text/css" href="../stylesheets/default.css">
+  </head><div></div>
+
+  <div></div>
+
+    <div id="header">
+      <h4>
+        <a href="https://www.youtube.com/watch?v=Imlidk02J0s">here's some good coding music from me to you
+          <img class="me" src="http://media-cache-ak0.pinimg.com/736x/02/83/04/02830416ce242f52aa5ddce3a82ed2f6.jpg"/>
+        </a>
+        <a href="https://www.youtube.com/watch?v=gx4rsZkCCss">
+          <img class="me" src="http://media-cache-ec0.pinimg.com/736x/d2/9c/79/d29c79a4698b5606ee7a8e07ff3cffed.jpg"/>
+        </a>
+        <a href="https://www.youtube.com/watch?v=E8b4xYbEugo">
+          <img class="me" src="http://media-cache-ec0.pinimg.com/736x/91/7f/3b/917f3b49c73f26b522ccc2d8439b69a6.jpg"/>
+        </a>
+        <a href="https://www.youtube.com/watch?v=1osmNEp2XGc">
+          <img class="me" src="http://media-cache-ak0.pinimg.com/736x/47/7a/1a/477a1a5547d9b92684c34ddaa335a55b.jpg"/>
+        </a>
+        <a href="https://www.youtube.com/watch?v=OPf0YbXqDm0">
+          <img id="here" src="http://media-cache-ec0.pinimg.com/736x/93/04/d9/9304d993324ae3ffdc0ff9b30a6fb292.jpg"/>
+        </a>
+      </h4> 
+    </div>
+
+    <ul>
+      <table class="indextable">
+        <tr>
+          <td><li>
+            <a class="indextable" href="http://yaysunshine.github.io/blog/index.html">Home</a>
+          </li><td>
+        </tr>
+        <tr>
+          <td><li>
+            <a class="indextable" href="http://yaysunshine.github.io/blog/blog-page.html">Writings</a>
+          </li></td>
+        </tr>
+        <tr>
+          <td><li>
+            <a class="indextable" href="#">Projects</a>
+          </li></td>
+        </tr>
+        <tr>
+          <td><li>
+            <a class="indextable" href="#">Resume</a>
+          </li></td>
+        </tr>
+        <tr>
+          <td><li>
+            <a class="indextable" href="#">Contact</a>
+          </li></td>
+        </tr>
+      </table>
+    </ul>
+
+  <body>
+    <main>
+      <h1>Dot Map</h1>
+      <h3><em>.map</em></h3>
+      <h4>11 Dec 2014</h4>
+
+      <section>
+        <p>
+           Enumerables. Say it again. (Or don't, but I had to say the word out loud a few times to understand how to pronounce it).
+        </p>
+        <p>
+          E - nu - mer - a - bles are Ruby methods that enumerate, or iterate. It - er - ate. (I'm doing this [bad] phonetic style for myself mostly, but yay if you like it, too). Iteration is simple. Ready -- it means GO OVER. Iterating through data structures is going over each element in the data structure.
+        </p>
+        <p>
+          If you knew that, PROPS. That had me confused for a while. Now to the topic: <em>.map</em>. This is an enumerable method. Enumerable methods iterate.
+        </p>
+        <p>
+          Since it's an enumerable method, we know one thing about this <em>.map</em> method: it will go over each element in the data structure.
+        </p>
+        <p>
+          This method basically: 1.) creates a new array (so, it's a non-destructive method, cool); 2.) makes the same operation happen to each object (because, remember, it's iterating). It also uses a block for an array, which is just the stuff within curly braces {}. We'll see what <em>.map</em> does to an array.
+        </p>
+        <p>
+          Say we have array named favorite_numbers:
+        </p>
+        <p class="code">
+          favorite_numbers = [10, 100, 5, 4]
+        </p>
+        <p>
+          Say we want to make each element ten times greater than the current value. Because what's coding if not a bunch of *awesome* word problems? So we could use <em>.map</em> to do this. Here's how:
+        </p>
+        <p class="code">
+          favorite_numbers.map { |elements| elements ** 10 }
+        </p>
+        <p>
+          So, favorite_numbers is our array. We are calling <em>.map</em> on the array. The word inside the pipes || is a placeholder that represents the elements within the array. Since it's just a placeholder, you could put any word, like "x" or "number" or "coffee" or "sleep". To the right of the pipes, we are saying that we want each element within the array to be ten times greater than its current value...aka, multiply each by 10.
+        </p>
+        <p>
+          You got this. So, this is our new array, right?
+        </p>
+        <p class="code">
+          => [100, 1000, 50, 40]
+        <p>
+          Yes!! Same elements. Just modified. And in a new array (because <em>.map</em> is non-destructive).
+        </p>
+        <p>
+          But really, why even use map?
+        </p>
+        <p>
+          Because it makes life easy! We can do one operation to each and every element in the data structure. Instead of having to change elements within a data structure individually, now we can say: heyyyy man just multiply (or divide or add) alllll of these. <a href="https://www.google.com/search?q=smiley+face&es_sm=91&tbm=isch&imgil=4GoHzmbs_HV8PM%253A%253BAY6kHZFkp_WSAM%253Bhttp%25253A%25252F%25252Ftown-of-salem.wikia.com%25252Fwiki%25252FFile%25253ASmiley-face-1600x1200-wallpaper-775678.jpg&source=iu&pf=m&fir=4GoHzmbs_HV8PM%253A%252CAY6kHZFkp_WSAM%252C_&usg=__q_-Wst9xxgPSR7Tjbp6YQQBKDDk%3D&biw=905&bih=430&dpr=1.25&ved=0CCsQyjc&ei=X5mKVKvxGcGvogSzyoJo#facrc=_&imgdii=_&imgrc=4GoHzmbs_HV8PM%253A%3BAY6kHZFkp_WSAM%3Bhttp%253A%252F%252Fimg1.wikia.nocookie.net%252F__cb20140605022457%252Ftown-of-salem%252Fimages%252F7%252F7a%252FSmiley-face-1600x1200-wallpaper-775678.jpg%3Bhttp%253A%252F%252Ftown-of-salem.wikia.com%252Fwiki%252FFile%253ASmiley-face-1600x1200-wallpaper-775678.jpg%3B1600%3B1200">Please. And thank you.</a>
+        </p>
+        <p><em>~ Catie Kennedy ~</em></p>
+      </section>
+    </main>
+  </body>
+
+  <div class="index"></div>
+
+    <div id="footer">
+      <h4><a href="https://www.linkedin.com/profile/view?id=378480344&trk=nav_responsive_tab_profile_pic">Link with me
+          <img class="social" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSC9Z5dKXmJffIX-4L47xHnQnIadEduc3WseA3NEdAvCtVmhkGzpw"/>
+        </a>
+      </h4>
+      <h4><a href="https://twitter.com/ckennedyay?lang=en">
+          <img class="social" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP9jJ1vbf9ImUkJgGTc4fZ-64yss3IBOirg5ux6DTVs_A4FDIK"/>Tweet with me
+        </a>
+      </h4>
+      <h4><a href="https://github.com/yaysunshine">
+          <img class="social" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRBvge7GZIGXoOtCUcgsd_EjbEmCId0s5_xp1KIQoH4CDJypY8"/>Git with me
+        </a>
+      </h4>
+    </div>
+</html>
