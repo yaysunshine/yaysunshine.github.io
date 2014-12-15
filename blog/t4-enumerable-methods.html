@@ -91,7 +91,7 @@
           Say we want to make each element ten times greater than the current value. Because what's coding if not a bunch of *awesome* word problems? So we could use <em>.map</em> to do this. Here's how:
         </p>
         <p class="code">
-          favorite_numbers.map { |elements| elements ** 10 }
+          favorite_numbers.map { |elements| elements * 10 }
         </p>
         <p>
           So, favorite_numbers is our array. We are calling <em>.map</em> on the array. The word inside the pipes || is a placeholder that represents the elements within the array. Since it's just a placeholder, you could put any word, like "x" or "number" or "coffee" or "sleep". To the right of the pipes, we are saying that we want each element within the array to be ten times greater than its current value...aka, multiply each by 10.
