@@ -61,8 +61,8 @@
 
   <body>
     <main>
-      <h1><em>Class</em>y Lady</h1>
-      <h4>2 January 2015</h4>
+      <h1><em>Class</em>-y Lady</h1>
+      <h4>3  January 2015</h4>
 
       <section>
         <p>
@@ -72,7 +72,7 @@
            Howdy. Let's talk about classes shall we.
         </p>
         <p>
-          A class is a thing. It's a thing that groups a bunch of methods (you know those other things that get <em>def</em>ined). Let's humanize classes.
+          A class is a thing. It's a thing that groups a bunch of methods (you know those other things that get <em>def</em>-ined).
         </p>
         <p>
           Let's think of a class like a human. Our awesome <a href="https://www.google.com/search?q=human&es_sm=91&source=lnms&tbm=isch&sa=X&ei=ZVinVJe6MZWxogTWvoHwCw&ved=0CAgQ_AUoAQ&biw=986&bih=535#facrc=_&imgdii=_&imgrc=rrSN7ejAC9PBSM%253A%3Bo85VLyRuIcXySM%3Bhttp%253A%252F%252Fwww.sniffcode.com%252Fimages%252Fhome%252Fonly_human.png%3Bhttp%253A%252F%252Fwww.sniffcode.com%252F%3B218%3B380">human</a> here has bones, muscles, legs, hands, fingers, arms, eyes, ears, mouth, noes...you know like human things. These "human things" are the equivalent of methods. And "human things" are alllll a part of the human. The awesome human is the class.
@@ -87,24 +87,95 @@
           class AwesomeHuman
         </p>
         <p>
-          See. You got it. Now we want to give our human class some "human things" (methods, remember?). We do with by defining a bunch of methods. I want to give our AwesomeHuman blue eyes.
+          See. You got it. Now we want to give our human class some "human things" (methods, remember?). Like a name! We do this by defining a method within the class. The first method always has to be initialized:
         </p>
         <p class="code">
           class AwesomeHuman
         </p>
         <p class="code">
-          def blue_eyes
+          def initialize
+        </p>
+        <p>
+          Your initialize method can take arguments. We're going to pass the argument <em>name</em>. We then make this <em>name</em> an <a href="http://rubymonk.com/learning/books/4-ruby-primer-ascent/chapters/45-more-classes/lessons/110-instance-variables">instance variable</a>. We can manipulate an instance variable outside the method in which it is created. This is handy if we want to use the value of <em>name</em> later on in the code. I want to write a code that tells me how many names my AwesomeHuman has:
+        </p>
+        <p class="code">
+          class AwesomeHuman
+        </p>
+        <p class="code">
+          def initialize(name)
+        </p>
+        <p class="code">
+          @name = name
         </p>
         <p class="code">
           end
-        <p>
-          
+        </p>
+        <!-- how to make this spacing correct for code...not for paragraphing? -->
+        <p class="code">
+          def name
+        </p>
+        <p class="code">
+          @name.count
+        </p>
+        <p class="code">
+          end
+        </p>
+        <p class="code">
+          end
         </p>
         <p>
-          
+          Make sure to end your class! Just this code will not print anything to the screen. We need to test it:
+        </p>
+        <p class="code">
+          test = AwesomeHuman.new(["Catie", "Kennedy"])
+        </p>
+        <p class="code">
+          p test.name
         </p>
         <p>
-          
+          I am using sublime and have saved this file as: AwesomeHuman.rb
+        </p>
+        <p>
+         So now if we run this code in terminal (if you're on a mac, or powershell if you're on a pc):
+        </p>
+        <p class="code">
+          ruby AwesomeHuman.rb
+        </p>
+        <p>
+        will print out
+        </p>
+        <p class="code">
+        2
+        </p>
+        <p>
+          A quick recap. In our test, we passed the class an array with 2 words, so in that test our AwesomeHuman has 2 names. Let's add another test in our sublime AwesomeHuman.rb file:
+        </p>   
+        <p class="code">
+          testtwo = AwesomeHuman.new(["c", "h", "o", "c", "o", "l", "a", "t", "e"])
+        </p>
+        <p class="code">
+          p testtwo.name
+        </p>
+        <p>
+          If we run this code in terminal:
+        </p>
+        <p class="code">
+          ruby AwesomeHuman.rb
+        </p>
+        <p>
+          will print out:
+        </p>
+        <p class="code">
+          2
+        </p>
+        <p class="code">
+          9
+        </p>
+        <p>
+          The 2 is from <em>test</em> and the 9 is from <em>testtwo</em>. Note how we <em>p</em>-rinted out the numbers by calling our <em>name</em> method on our test name. Whatever you pass, we have a method within our AwesomeHuman that will return the number of elements (in our case words or letters) in AwesomeHuman's name.
+        </p>
+        <p>
+          In conclusion, we can make a class have instance variables and instance methods. If a class is the human, instance variables are...like blood. Can be found and used everywhere in the body. And methods are like limbs.
         </p>
         <p><em>~ Catie Kennedy ~</em></p>
       </section>
