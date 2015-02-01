@@ -18,6 +18,10 @@ h2 {
 	border: 6px solid #A60042;
 }
 
+.space {
+	border: 50px solid #B4B4AE;
+}
+
 #me {
 	width: 200px;
 	height: 250px;
@@ -28,11 +32,25 @@ h2 {
 }
 
 .indextable {
-	margin-top: 1%;
+/*	margin-top: 1%;
 	color: white;
 	font-size: 28px;
 	font-family: verdana;
-	margin-left: 20px;
+	margin-left: 20px;*/
+	width: 100%;
+	height: 100px;
+	position: absolute;
+	text-align: center;
+	top: 190px;
+	display: block;
+	font-family: verdana;
+	font-size: 28px;
+	color: white;
+}
+
+.nav_option {
+	padding: 15px;
+	margin-top: 15px;
 }
 
 td {
