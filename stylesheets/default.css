@@ -22,6 +22,18 @@ h2 {
 	border: 50px solid #B4B4AE;
 }
 
+.push {
+	width: 100%;
+	height: 100px;
+	position: absolute;
+	text-align: center;
+	top: 300px;
+	display: block;
+	font-family: verdana;
+	font-size: 28px;
+	color: white;
+}
+
 #me {
 	width: 200px;
 	height: 250px;
@@ -47,6 +59,8 @@ h2 {
 	font-size: 28px;
 	color: white;
 }
+
+
 
 .nav_option {
 	padding: 15px;
