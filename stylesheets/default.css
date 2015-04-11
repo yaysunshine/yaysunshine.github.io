@@ -3,7 +3,6 @@ html {
 }
 
 h1 {
-	color: #261400;
 	font-size: 44px;
 	font-family: Times;
 }
@@ -11,7 +10,7 @@ h1 {
 h2 {
 	color: white;
 	font-size: 26px;
-	font-family: Times;
+	font-family: 'Aclonica', sans-serif;
 }
 
 .index {
@@ -35,8 +34,8 @@ h2 {
 }
 
 #me {
-	width: 200px;
-	height: 250px;
+	width: 100px;
+	height: 125px;
 	position: fixed;
 	margin-left: 80%;
 	margin-top: 2.5%;
@@ -77,7 +76,7 @@ td {
 	margin-left: auto;
 	margin-right: auto;
 	font-size: 30px;
-	font-family: Times;
+	font-family: 'Happy Monkey', cursive;
 }
 
 .social {
@@ -124,4 +123,21 @@ section {
 .cheat_sheet{
   text-align: center;
   position: relative;
+}
+
+#forever {
+	font-family: 'Aclonica', sans-serif;
+}
+
+.withme {
+	font-family: 'Happy Monkey', cursive;
+	position: relative;
+	display: block;
+	float: left;
+	padding: 2em;
+}
+
+#footer {
+	margin-right: auto;
+	margin-left: auto;
 }
