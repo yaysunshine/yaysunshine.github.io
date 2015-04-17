@@ -8,12 +8,29 @@
       <link href='http://fonts.googleapis.com/css?family=Happy+Monkey' rel='stylesheet' type='text/css'>
       <link href='http://fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>
       <link href='http://fonts.googleapis.com/css?family=Josefin+Sans' rel='stylesheet' type='text/css'>
+      <link href='http://fonts.googleapis.com/css?family=Sigmar+One' rel='stylesheet' type='text/css'>
   	</head>
 
 
   	<body>
-		<h1 id="forever">Forever Learning</h1>
-		<h2>~ Catie Kennedy ~</h2>
+		<div>
+      <h1 id="forever">Forever Learning</h1>
+      <script type="text/javascript">
+        $(document).ready(function(){
+
+          var months = ['January','February','March','April','May','June','July', 'August', 'September', 'October', 'November', 'December']
+          var tomorrow = new Date();
+            tomorrow.setTime(tomorrow.getTime() + (1000*3600*24));
+          document.getElementById("time").innerHTML = tomorrow.getDate() + " " + months[tomorrow.getMonth()] + " " + tomorrow.getFullYear();
+
+        });
+      </script>
+      <h2 id="time"></h2>
+    </div>
+
+    <div>
+  		<h2 id="catie">~ Catie Kennedy ~</h2>
+    </div>
 
 		<div>
 			<a href="https://twitter.com/ckennedyay?lang=en"><img id="me" src="http://media-cache-ec0.pinimg.com/736x/eb/d5/60/ebd56046c271aecf4cb87816a9c1b2d0.jpg"/></a>
@@ -32,6 +49,8 @@
     </div>
 
     <div class="space"></div>
+
+    <div class="index"></div>
 
 		<h1 class="center">Hi!</h1>
 

@@ -1,16 +1,16 @@
 html {
-	background-color: #B4B4AE;
+	background-color: white;
 }
 
-h1 {
-	font-size: 44px;
-	font-family: Times;
+#catie {
+	font-family: 'Happy Monkey', cursive;
+	text-align: right;
+	position: relative;
 }
 
 h2 {
-	color: white;
 	font-size: 26px;
-	font-family: 'Aclonica', sans-serif;
+	font-family: 'Happy Monkey', cursive;
 }
 
 .index {
@@ -28,7 +28,7 @@ h2 {
 	text-align: center;
 	top: 300px;
 	display: block;
-	font-family: verdana;
+	font-family: 'Happy Monkey', cursive;
 	font-size: 28px;
 	color: white;
 }
@@ -38,7 +38,7 @@ h2 {
 	height: 125px;
 	position: fixed;
 	margin-left: 80%;
-	margin-top: 2.5%;
+	margin-top: -11%;
 	border: 1px solid #261400;
 }
 
@@ -54,7 +54,6 @@ h2 {
 	text-align: center;
 	top: 190px;
 	display: block;
-	font-family: verdana;
 	font-size: 28px;
 	color: white;
 	font-family: 'Happy Monkey', cursive;
@@ -62,7 +61,6 @@ h2 {
 
 
 
-.nav_option {
 	padding: 15px;
 	margin-top: 15px;
 }
@@ -77,7 +75,7 @@ td {
 	margin-left: auto;
 	margin-right: auto;
 	font-size: 30px;
-	font-family: 'Poiret One', cursive;
+	font-family: 'Happy Monkey', cursive;
 }
 
 .social {
@@ -91,7 +89,7 @@ td {
 /*CF7C00*/
 
 .blogposts {
-	font-family: Times;
+	font-family: 'Happy Monkey', cursive;
 	font-size: 26px;
 	color: #2B2B2B;
 	width: 300px;
@@ -104,13 +102,13 @@ td {
 }
 
 .code {
-	font-family: Times;
+	font-family: 'Happy Monkey', cursive;
 	font-size: 20px;
 	color: #2B2B2B;
 }
 
 section {
-	font-family: Times;
+	font-family: 'Happy Monkey', cursive;
 	color: #2B2B2B;
 	margin-right: auto;
 	margin-left: auto;
@@ -127,7 +125,7 @@ section {
 }
 
 #forever {
-	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Happy Monkey', cursive;
 }
 
 .withme {
