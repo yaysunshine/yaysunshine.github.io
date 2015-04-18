@@ -27,6 +27,14 @@ body {
   /*border: 2px solid white;*/
 }
 
+.meat {
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+  font-family:
+}
+
+
 .contact {
   background-color: white;
   color: black;
@@ -35,13 +43,19 @@ body {
   font-size: 2em;
 }
 
+.contactspace {
+  background-color: black;
+  height: 10px;
+  width: 100%;
+}
+
 .carlton {
   text-align: center;
 }
 
 .links {
   text-align: center;
-  font-size: 2em;
+  font-size: 25px;
   font-family: 'Alegreya Sans SC', sans-serif;
 }
 
