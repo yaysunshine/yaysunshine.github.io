@@ -23,7 +23,7 @@ body {
   /*font-family: 'Oxygen', sans-serif;*/
   /*font-family: 'Comfortaa', cursive;*/
   font-family: 'Codystar', cursive;
-  font-size: 4em;
+  font-size: 3em;
   /*border: 2px solid white;*/
 }
 
@@ -31,7 +31,16 @@ body {
   text-align: center;
   margin-right: auto;
   margin-left: auto;
-  font-family:
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 28px;
+}
+
+.developer {
+  background-color: white;
+  color: black;
+  text-align: center;
+  font-family: 'Londrina Outline', cursive;
+  font-size: 3em;
 }
 
 
@@ -45,7 +54,7 @@ body {
 
 .contactspace {
   background-color: black;
-  height: 10px;
+  height: 50px;
   width: 100%;
 }
 
@@ -54,7 +63,6 @@ body {
 }
 
 .links {
-  text-align: center;
   font-size: 25px;
   font-family: 'Alegreya Sans SC', sans-serif;
 }
@@ -70,4 +78,16 @@ body {
 
 .links :visited {
   color: white;
+}
+
+#github {
+  margin-left: 35%;
+}
+
+#linkedin {
+  margin-left: 45%;
+}
+
+#twitter {
+  margin-left: 55%;
 }
