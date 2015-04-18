@@ -7517,3 +7517,1752 @@ Started GET "/assets/carlton-6ac7e0fdf583a2d1629fce1c92a78dd35a4e4994a6074d290a6
 
 
 Started GET "/assets/danglingheart-da9366287c989098c3790f6836b58ccd177eae9a036ed07a7352bfa621110625.jpg" for ::1 at 2015-04-17 20:13:32 -0700
+
+
+Started GET "/" for ::1 at 2015-04-17 20:15:18 -0700
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (3.9ms)
+Completed 200 OK in 173ms (Views: 171.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-17 20:15:18 -0700
+
+
+Started GET "/assets/landing_page.self-2c05bc1f1c74672354c547e41a5b95d094cfe585f7974b4123fc6d051deabd4e.css?body=1" for ::1 at 2015-04-17 20:15:18 -0700
+
+
+Started GET "/assets/landing_page.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-17 20:15:18 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-04-17 20:15:18 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-17 20:15:18 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-17 20:15:18 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-04-17 20:15:18 -0700
+
+
+Started GET "/assets/carlton-6ac7e0fdf583a2d1629fce1c92a78dd35a4e4994a6074d290a603603c3eb02cf.gif" for ::1 at 2015-04-17 20:15:19 -0700
+
+
+Started GET "/assets/danglingheart-da9366287c989098c3790f6836b58ccd177eae9a036ed07a7352bfa621110625.jpg" for ::1 at 2015-04-17 20:15:19 -0700
+
+
+Started GET "/" for ::1 at 2015-04-17 20:15:41 -0700
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 35ms (Views: 34.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-04-17 20:15:42 -0700
+
+
+Started GET "/assets/landing_page.self-2c05bc1f1c74672354c547e41a5b95d094cfe585f7974b4123fc6d051deabd4e.css?body=1" for ::1 at 2015-04-17 20:15:42 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-17 20:15:42 -0700
+
+
+Started GET "/assets/landing_page.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-17 20:15:42 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-17 20:15:42 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-17 20:15:42 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-04-17 20:15:42 -0700
+
+
+Started GET "/assets/carlton-6ac7e0fdf583a2d1629fce1c92a78dd35a4e4994a6074d290a603603c3eb02cf.gif" for ::1 at 2015-04-17 20:15:42 -0700
+
+
+Started GET "/assets/danglingheart-da9366287c989098c3790f6836b58ccd177eae9a036ed07a7352bfa621110625.jpg" for ::1 at 2015-04-17 20:15:42 -0700
+
+
+Started GET "/" for ::1 at 2015-04-17 20:16:03 -0700
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 164ms (Views: 163.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/landing_page.self-5c0a80f05268c32257d19cdaca55d1525a17d58a8d31a87f4554cf5c72a2a270.css?body=1" for ::1 at 2015-04-17 20:16:04 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-17 20:16:04 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-17 20:16:04 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-04-17 20:16:04 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-04-17 20:16:04 -0700
+
+
+Started GET "/assets/landing_page.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-17 20:16:04 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-17 20:16:04 -0700
+
+
+Started GET "/assets/carlton-6ac7e0fdf583a2d1629fce1c92a78dd35a4e4994a6074d290a603603c3eb02cf.gif" for ::1 at 2015-04-17 20:16:04 -0700
+
+
+Started GET "/assets/danglingheart-da9366287c989098c3790f6836b58ccd177eae9a036ed07a7352bfa621110625.jpg" for ::1 at 2015-04-17 20:16:04 -0700
+
+
+Started GET "/" for ::1 at 2015-04-17 20:16:11 -0700
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 154ms (Views: 153.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/landing_page.self-d27dd1650fa1c02d7f668d16afdbcf1d2b9ab01be7d6d642c047c22d59725994.css?body=1" for ::1 at 2015-04-17 20:16:11 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-04-17 20:16:11 -0700
+
+
+Started GET "/assets/landing_page.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-17 20:16:11 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-17 20:16:11 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-17 20:16:11 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-17 20:16:11 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-04-17 20:16:11 -0700
+
+
+Started GET "/assets/carlton-6ac7e0fdf583a2d1629fce1c92a78dd35a4e4994a6074d290a603603c3eb02cf.gif" for ::1 at 2015-04-17 20:16:11 -0700
+
+
+Started GET "/assets/danglingheart-da9366287c989098c3790f6836b58ccd177eae9a036ed07a7352bfa621110625.jpg" for ::1 at 2015-04-17 20:16:11 -0700
+
+
+Started GET "/" for ::1 at 2015-04-17 20:16:20 -0700
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 166ms (Views: 165.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-04-17 20:16:20 -0700
+
+
+Started GET "/assets/landing_page.self-f25f6a0e46bcbc9457df074544936c768dc474babcf5680f003be558834ffbed.css?body=1" for ::1 at 2015-04-17 20:16:20 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-17 20:16:20 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-17 20:16:20 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-17 20:16:20 -0700
+
+
+Started GET "/assets/landing_page.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-17 20:16:20 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-04-17 20:16:20 -0700
+
+
+Started GET "/assets/carlton-6ac7e0fdf583a2d1629fce1c92a78dd35a4e4994a6074d290a603603c3eb02cf.gif" for ::1 at 2015-04-17 20:16:20 -0700
+
+
+Started GET "/assets/danglingheart-da9366287c989098c3790f6836b58ccd177eae9a036ed07a7352bfa621110625.jpg" for ::1 at 2015-04-17 20:16:20 -0700
+
+
+Started GET "/" for ::1 at 2015-04-17 20:16:36 -0700
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 173ms (Views: 172.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/landing_page.self-a879039f21fb3ea941f9721af86dbd35077f74116b32594a0b29d5b631f0dc66.css?body=1" for ::1 at 2015-04-17 20:16:36 -0700
+
+
+Started GET "/assets/landing_page.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-17 20:16:36 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-17 20:16:36 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-17 20:16:36 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-17 20:16:36 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-04-17 20:16:36 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-04-17 20:16:36 -0700
+
+
+Started GET "/assets/carlton-6ac7e0fdf583a2d1629fce1c92a78dd35a4e4994a6074d290a603603c3eb02cf.gif" for ::1 at 2015-04-17 20:16:36 -0700
+
+
+Started GET "/assets/danglingheart-da9366287c989098c3790f6836b58ccd177eae9a036ed07a7352bfa621110625.jpg" for ::1 at 2015-04-17 20:16:36 -0700
+
+
+Started GET "/" for ::1 at 2015-04-17 20:16:49 -0700
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 158ms (Views: 157.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/landing_page.self-34b88588ecb90f147e287e1b51542c53b0ef4de6faaf48cf36b877b10b52b5b8.css?body=1" for ::1 at 2015-04-17 20:16:50 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-17 20:16:50 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-04-17 20:16:50 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-17 20:16:50 -0700
+
+
+Started GET "/assets/landing_page.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-17 20:16:50 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-17 20:16:50 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-04-17 20:16:50 -0700
+
+
+Started GET "/assets/carlton-6ac7e0fdf583a2d1629fce1c92a78dd35a4e4994a6074d290a603603c3eb02cf.gif" for ::1 at 2015-04-17 20:16:50 -0700
+
+
+Started GET "/assets/danglingheart-da9366287c989098c3790f6836b58ccd177eae9a036ed07a7352bfa621110625.jpg" for ::1 at 2015-04-17 20:16:50 -0700
+
+
+Started GET "/" for ::1 at 2015-04-17 20:16:57 -0700
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 176ms (Views: 175.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/landing_page.self-9728fa4c5c3df63ec05fb3f4018c3ddf463ec3589cfd6da885c743344b3ea215.css?body=1" for ::1 at 2015-04-17 20:16:58 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-04-17 20:16:58 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-17 20:16:58 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-17 20:16:58 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-17 20:16:58 -0700
+
+
+Started GET "/assets/landing_page.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-17 20:16:58 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-04-17 20:16:58 -0700
+
+
+Started GET "/assets/carlton-6ac7e0fdf583a2d1629fce1c92a78dd35a4e4994a6074d290a603603c3eb02cf.gif" for ::1 at 2015-04-17 20:16:58 -0700
+
+
+Started GET "/assets/danglingheart-da9366287c989098c3790f6836b58ccd177eae9a036ed07a7352bfa621110625.jpg" for ::1 at 2015-04-17 20:16:58 -0700
+
+
+Started GET "/" for ::1 at 2015-04-17 20:17:37 -0700
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (4.2ms)
+Completed 200 OK in 168ms (Views: 167.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/landing_page.self-251f23f9c59789d84a6f0cf1887f90ff261c7f3a16c84993841bd68a4943f5c2.css?body=1" for ::1 at 2015-04-17 20:17:37 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-17 20:17:37 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-04-17 20:17:37 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-17 20:17:37 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-17 20:17:37 -0700
+
+
+Started GET "/assets/landing_page.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-17 20:17:37 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-04-17 20:17:37 -0700
+
+
+Started GET "/assets/carlton-6ac7e0fdf583a2d1629fce1c92a78dd35a4e4994a6074d290a603603c3eb02cf.gif" for ::1 at 2015-04-17 20:17:37 -0700
+
+
+Started GET "/assets/danglingheart-da9366287c989098c3790f6836b58ccd177eae9a036ed07a7352bfa621110625.jpg" for ::1 at 2015-04-17 20:17:37 -0700
+
+
+Started GET "/" for ::1 at 2015-04-17 20:17:50 -0700
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 164ms (Views: 162.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-17 20:17:50 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-17 20:17:50 -0700
+
+
+Started GET "/assets/landing_page.self-8ceb71600faeaa8b7197ec3e41dee8832442ae731ca80d505338c86c0e26ae1c.css?body=1" for ::1 at 2015-04-17 20:17:50 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-04-17 20:17:50 -0700
+
+
+Started GET "/assets/landing_page.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-17 20:17:50 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-17 20:17:51 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-04-17 20:17:51 -0700
+
+
+Started GET "/assets/carlton-6ac7e0fdf583a2d1629fce1c92a78dd35a4e4994a6074d290a603603c3eb02cf.gif" for ::1 at 2015-04-17 20:17:51 -0700
+
+
+Started GET "/assets/danglingheart-da9366287c989098c3790f6836b58ccd177eae9a036ed07a7352bfa621110625.jpg" for ::1 at 2015-04-17 20:17:51 -0700
+
+
+Started GET "/" for ::1 at 2015-04-17 20:18:06 -0700
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (3.9ms)
+Completed 200 OK in 41ms (Views: 39.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-17 20:18:06 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-17 20:18:06 -0700
+
+
+Started GET "/assets/landing_page.self-8ceb71600faeaa8b7197ec3e41dee8832442ae731ca80d505338c86c0e26ae1c.css?body=1" for ::1 at 2015-04-17 20:18:06 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-17 20:18:06 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-04-17 20:18:06 -0700
+
+
+Started GET "/assets/landing_page.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-17 20:18:06 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-04-17 20:18:06 -0700
+
+
+Started GET "/assets/carlton-6ac7e0fdf583a2d1629fce1c92a78dd35a4e4994a6074d290a603603c3eb02cf.gif" for ::1 at 2015-04-17 20:18:06 -0700
+
+
+Started GET "/assets/danglingheart-da9366287c989098c3790f6836b58ccd177eae9a036ed07a7352bfa621110625.jpg" for ::1 at 2015-04-17 20:18:06 -0700
+
+
+Started GET "/" for ::1 at 2015-04-17 20:18:19 -0700
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 167ms (Views: 166.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/landing_page.self-f4c33aa24e7a28cc788d877ede0068be6d5793384f28309be8ca5475e8e61a1f.css?body=1" for ::1 at 2015-04-17 20:18:19 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-04-17 20:18:19 -0700
+
+
+Started GET "/assets/landing_page.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-17 20:18:19 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-17 20:18:19 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-17 20:18:19 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-17 20:18:19 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-04-17 20:18:19 -0700
+
+
+Started GET "/assets/carlton-6ac7e0fdf583a2d1629fce1c92a78dd35a4e4994a6074d290a603603c3eb02cf.gif" for ::1 at 2015-04-17 20:18:19 -0700
+
+
+Started GET "/assets/danglingheart-da9366287c989098c3790f6836b58ccd177eae9a036ed07a7352bfa621110625.jpg" for ::1 at 2015-04-17 20:18:19 -0700
+
+
+Started GET "/" for ::1 at 2015-04-17 20:19:12 -0700
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (8.5ms)
+Completed 200 OK in 50ms (Views: 48.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/landing_page.self-f4c33aa24e7a28cc788d877ede0068be6d5793384f28309be8ca5475e8e61a1f.css?body=1" for ::1 at 2015-04-17 20:19:12 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-17 20:19:12 -0700
+
+
+Started GET "/assets/landing_page.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-17 20:19:12 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-17 20:19:12 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-04-17 20:19:12 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-17 20:19:12 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-04-17 20:19:12 -0700
+
+
+Started GET "/assets/carlton-6ac7e0fdf583a2d1629fce1c92a78dd35a4e4994a6074d290a603603c3eb02cf.gif" for ::1 at 2015-04-17 20:19:12 -0700
+
+
+Started GET "/assets/danglingheart-da9366287c989098c3790f6836b58ccd177eae9a036ed07a7352bfa621110625.jpg" for ::1 at 2015-04-17 20:19:12 -0700
+
+
+Started GET "/" for ::1 at 2015-04-17 20:19:34 -0700
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (5.1ms)
+Completed 200 OK in 174ms (Views: 173.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-17 20:19:34 -0700
+
+
+Started GET "/assets/landing_page.self-4e713fc01c63cafb0b96cffffb3f61747d7cda4bf3983d8803da0cd168600f7f.css?body=1" for ::1 at 2015-04-17 20:19:34 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-04-17 20:19:34 -0700
+
+
+Started GET "/assets/landing_page.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-17 20:19:34 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-17 20:19:34 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-17 20:19:34 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-04-17 20:19:34 -0700
+
+
+Started GET "/assets/carlton-6ac7e0fdf583a2d1629fce1c92a78dd35a4e4994a6074d290a603603c3eb02cf.gif" for ::1 at 2015-04-17 20:19:34 -0700
+
+
+Started GET "/assets/danglingheart-da9366287c989098c3790f6836b58ccd177eae9a036ed07a7352bfa621110625.jpg" for ::1 at 2015-04-17 20:19:34 -0700
+
+
+Started GET "/" for ::1 at 2015-04-17 20:19:40 -0700
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 171ms (Views: 170.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/landing_page.self-74cff78df6e002983064bf80abd23253218bec3f0fa2987046138082cf9b0163.css?body=1" for ::1 at 2015-04-17 20:19:40 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-04-17 20:19:40 -0700
+
+
+Started GET "/assets/landing_page.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-17 20:19:40 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-17 20:19:40 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-17 20:19:40 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-17 20:19:40 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-04-17 20:19:40 -0700
+
+
+Started GET "/assets/carlton-6ac7e0fdf583a2d1629fce1c92a78dd35a4e4994a6074d290a603603c3eb02cf.gif" for ::1 at 2015-04-17 20:19:40 -0700
+
+
+Started GET "/assets/danglingheart-da9366287c989098c3790f6836b58ccd177eae9a036ed07a7352bfa621110625.jpg" for ::1 at 2015-04-17 20:19:40 -0700
+
+
+Started GET "/" for ::1 at 2015-04-17 20:19:52 -0700
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 169ms (Views: 167.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/landing_page.self-419be59d41b84b259b8732548e16b3a1ed0c702b6296be1e67501d6867414e32.css?body=1" for ::1 at 2015-04-17 20:19:53 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-17 20:19:53 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-04-17 20:19:53 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-17 20:19:53 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-17 20:19:53 -0700
+
+
+Started GET "/assets/landing_page.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-17 20:19:53 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-04-17 20:19:53 -0700
+
+
+Started GET "/assets/carlton-6ac7e0fdf583a2d1629fce1c92a78dd35a4e4994a6074d290a603603c3eb02cf.gif" for ::1 at 2015-04-17 20:19:53 -0700
+
+
+Started GET "/assets/danglingheart-da9366287c989098c3790f6836b58ccd177eae9a036ed07a7352bfa621110625.jpg" for ::1 at 2015-04-17 20:19:53 -0700
+
+
+Started GET "/" for ::1 at 2015-04-17 20:20:45 -0700
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (4.4ms)
+Completed 200 OK in 43ms (Views: 42.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/landing_page.self-419be59d41b84b259b8732548e16b3a1ed0c702b6296be1e67501d6867414e32.css?body=1" for ::1 at 2015-04-17 20:20:45 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-04-17 20:20:45 -0700
+
+
+Started GET "/assets/landing_page.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-17 20:20:45 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-17 20:20:45 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-17 20:20:45 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-17 20:20:45 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-04-17 20:20:45 -0700
+
+
+Started GET "/assets/carlton-6ac7e0fdf583a2d1629fce1c92a78dd35a4e4994a6074d290a603603c3eb02cf.gif" for ::1 at 2015-04-17 20:20:45 -0700
+
+
+Started GET "/assets/danglingheart-da9366287c989098c3790f6836b58ccd177eae9a036ed07a7352bfa621110625.jpg" for ::1 at 2015-04-17 20:20:45 -0700
+
+
+Started GET "/" for ::1 at 2015-04-17 20:21:26 -0700
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (4.9ms)
+Completed 200 OK in 192ms (Views: 190.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-04-17 20:21:27 -0700
+
+
+Started GET "/assets/landing_page.self-f3886abfe0bc82c32848f1842d7cd0d09b547fa917b752d11ee75fc4bc98979f.css?body=1" for ::1 at 2015-04-17 20:21:27 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-17 20:21:27 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-17 20:21:27 -0700
+
+
+Started GET "/assets/landing_page.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-17 20:21:27 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-17 20:21:27 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-04-17 20:21:27 -0700
+
+
+Started GET "/assets/carlton-6ac7e0fdf583a2d1629fce1c92a78dd35a4e4994a6074d290a603603c3eb02cf.gif" for ::1 at 2015-04-17 20:21:27 -0700
+
+
+Started GET "/assets/danglingheart-da9366287c989098c3790f6836b58ccd177eae9a036ed07a7352bfa621110625.jpg" for ::1 at 2015-04-17 20:21:27 -0700
+
+
+Started GET "/" for ::1 at 2015-04-17 20:21:36 -0700
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (3.8ms)
+Completed 200 OK in 160ms (Views: 159.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/landing_page.self-c6e86798050c44356e478711bd7485357f0a5b3d67415e99d723e76e21ced97f.css?body=1" for ::1 at 2015-04-17 20:21:37 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-04-17 20:21:37 -0700
+
+
+Started GET "/assets/landing_page.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-17 20:21:37 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-17 20:21:37 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-17 20:21:37 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-17 20:21:37 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-04-17 20:21:37 -0700
+
+
+Started GET "/assets/carlton-6ac7e0fdf583a2d1629fce1c92a78dd35a4e4994a6074d290a603603c3eb02cf.gif" for ::1 at 2015-04-17 20:21:37 -0700
+
+
+Started GET "/assets/danglingheart-da9366287c989098c3790f6836b58ccd177eae9a036ed07a7352bfa621110625.jpg" for ::1 at 2015-04-17 20:21:37 -0700
+
+
+Started GET "/" for ::1 at 2015-04-17 20:21:55 -0700
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 169ms (Views: 167.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/landing_page.self-ea177490ba84a2f62fb4d65b0ceb284962993a0e461fbbdbd42e51ad479670aa.css?body=1" for ::1 at 2015-04-17 20:21:55 -0700
+
+
+Started GET "/assets/landing_page.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-17 20:21:55 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-17 20:21:55 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-17 20:21:55 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-04-17 20:21:55 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-17 20:21:55 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-04-17 20:21:55 -0700
+
+
+Started GET "/assets/carlton-6ac7e0fdf583a2d1629fce1c92a78dd35a4e4994a6074d290a603603c3eb02cf.gif" for ::1 at 2015-04-17 20:21:55 -0700
+
+
+Started GET "/assets/danglingheart-da9366287c989098c3790f6836b58ccd177eae9a036ed07a7352bfa621110625.jpg" for ::1 at 2015-04-17 20:21:55 -0700
+
+
+Started GET "/" for ::1 at 2015-04-17 20:22:36 -0700
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (4.5ms)
+Completed 200 OK in 176ms (Views: 175.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/landing_page.self-cce439c38648ef01d1d149b249df2f321fcf0476a2273873c2fbb9db12f0ae4b.css?body=1" for ::1 at 2015-04-17 20:22:36 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-04-17 20:22:36 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-17 20:22:36 -0700
+
+
+Started GET "/assets/landing_page.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-17 20:22:36 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-17 20:22:36 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-17 20:22:36 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-04-17 20:22:36 -0700
+
+
+Started GET "/assets/carlton-6ac7e0fdf583a2d1629fce1c92a78dd35a4e4994a6074d290a603603c3eb02cf.gif" for ::1 at 2015-04-17 20:22:36 -0700
+
+
+Started GET "/assets/danglingheart-da9366287c989098c3790f6836b58ccd177eae9a036ed07a7352bfa621110625.jpg" for ::1 at 2015-04-17 20:22:36 -0700
+
+
+Started GET "/" for ::1 at 2015-04-17 20:22:43 -0700
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 168ms (Views: 166.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/landing_page.self-7f43634b3e52d00537a56b0052863dc31ceb19bfaae3a7d0f46bd3dc4cb66cdb.css?body=1" for ::1 at 2015-04-17 20:22:43 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-04-17 20:22:43 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-17 20:22:43 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-17 20:22:43 -0700
+
+
+Started GET "/assets/landing_page.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-17 20:22:43 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-17 20:22:43 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-04-17 20:22:43 -0700
+
+
+Started GET "/assets/carlton-6ac7e0fdf583a2d1629fce1c92a78dd35a4e4994a6074d290a603603c3eb02cf.gif" for ::1 at 2015-04-17 20:22:43 -0700
+
+
+Started GET "/assets/danglingheart-da9366287c989098c3790f6836b58ccd177eae9a036ed07a7352bfa621110625.jpg" for ::1 at 2015-04-17 20:22:43 -0700
+
+
+Started GET "/" for ::1 at 2015-04-17 20:23:04 -0700
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (5.2ms)
+Completed 200 OK in 49ms (Views: 48.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-04-17 20:23:04 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-17 20:23:04 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-17 20:23:04 -0700
+
+
+Started GET "/assets/landing_page.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-17 20:23:04 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-17 20:23:04 -0700
+
+
+Started GET "/assets/landing_page.self-7f43634b3e52d00537a56b0052863dc31ceb19bfaae3a7d0f46bd3dc4cb66cdb.css?body=1" for ::1 at 2015-04-17 20:23:04 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-04-17 20:23:04 -0700
+
+
+Started GET "/assets/carlton-6ac7e0fdf583a2d1629fce1c92a78dd35a4e4994a6074d290a603603c3eb02cf.gif" for ::1 at 2015-04-17 20:23:04 -0700
+
+
+Started GET "/assets/danglingheart-da9366287c989098c3790f6836b58ccd177eae9a036ed07a7352bfa621110625.jpg" for ::1 at 2015-04-17 20:23:04 -0700
+
+
+Started GET "/" for ::1 at 2015-04-17 20:23:56 -0700
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (5.5ms)
+Completed 200 OK in 176ms (Views: 175.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/landing_page.self-16d1eb1f480417cf60db9f98280213159010260739621dcbcbfbf9e6dc3934eb.css?body=1" for ::1 at 2015-04-17 20:23:56 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-04-17 20:23:56 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-17 20:23:56 -0700
+
+
+Started GET "/assets/landing_page.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-17 20:23:56 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-17 20:23:56 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-17 20:23:56 -0700
+
+
+Started GET "/assets/carlton-6ac7e0fdf583a2d1629fce1c92a78dd35a4e4994a6074d290a603603c3eb02cf.gif" for ::1 at 2015-04-17 20:23:56 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-04-17 20:23:56 -0700
+
+
+Started GET "/assets/danglingheart-da9366287c989098c3790f6836b58ccd177eae9a036ed07a7352bfa621110625.jpg" for ::1 at 2015-04-17 20:23:56 -0700
+
+
+Started GET "/" for ::1 at 2015-04-17 20:24:12 -0700
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (3.9ms)
+Completed 200 OK in 164ms (Views: 163.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/landing_page.self-bb89b15bc91f4f6570dfd0cd3be4c0bd50875c0249cfe1e9958c8a1316f676cb.css?body=1" for ::1 at 2015-04-17 20:24:12 -0700
+
+
+Started GET "/assets/landing_page.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-17 20:24:12 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-17 20:24:12 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-04-17 20:24:12 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-17 20:24:12 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-17 20:24:12 -0700
+
+
+Started GET "/assets/carlton-6ac7e0fdf583a2d1629fce1c92a78dd35a4e4994a6074d290a603603c3eb02cf.gif" for ::1 at 2015-04-17 20:24:12 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-04-17 20:24:12 -0700
+
+
+Started GET "/assets/danglingheart-da9366287c989098c3790f6836b58ccd177eae9a036ed07a7352bfa621110625.jpg" for ::1 at 2015-04-17 20:24:12 -0700
+
+
+Started GET "/" for ::1 at 2015-04-17 20:24:23 -0700
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 177ms (Views: 176.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/landing_page.self-7e96e97803a088d046bf36c32e0fe06a53679cfe524113c8097b586f2a7009fd.css?body=1" for ::1 at 2015-04-17 20:24:24 -0700
+
+
+Started GET "/assets/landing_page.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-17 20:24:24 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-17 20:24:24 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-04-17 20:24:24 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-17 20:24:24 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-17 20:24:24 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-04-17 20:24:24 -0700
+
+
+Started GET "/assets/carlton-6ac7e0fdf583a2d1629fce1c92a78dd35a4e4994a6074d290a603603c3eb02cf.gif" for ::1 at 2015-04-17 20:24:24 -0700
+
+
+Started GET "/assets/danglingheart-da9366287c989098c3790f6836b58ccd177eae9a036ed07a7352bfa621110625.jpg" for ::1 at 2015-04-17 20:24:24 -0700
+
+
+Started GET "/" for ::1 at 2015-04-17 20:24:44 -0700
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 171ms (Views: 169.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/landing_page.self-7f43634b3e52d00537a56b0052863dc31ceb19bfaae3a7d0f46bd3dc4cb66cdb.css?body=1" for ::1 at 2015-04-17 20:24:44 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-04-17 20:24:44 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-17 20:24:44 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-17 20:24:44 -0700
+
+
+Started GET "/assets/landing_page.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-17 20:24:44 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-17 20:24:44 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-04-17 20:24:44 -0700
+
+
+Started GET "/assets/carlton-6ac7e0fdf583a2d1629fce1c92a78dd35a4e4994a6074d290a603603c3eb02cf.gif" for ::1 at 2015-04-17 20:24:44 -0700
+
+
+Started GET "/assets/danglingheart-da9366287c989098c3790f6836b58ccd177eae9a036ed07a7352bfa621110625.jpg" for ::1 at 2015-04-17 20:24:44 -0700
+
+
+Started GET "/" for ::1 at 2015-04-17 20:26:58 -0700
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (29.9ms)
+Completed 500 Internal Server Error in 35ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (undefined method `to' for #<#<Class:0x007fc79cff2d08>:0x007fc79d9c0268>):
+    22: </div>
+    23: 
+    24: <div class="links">
+    25:   <p id="linkedin"><%= link to 'www.linkedin.com/in/catiek', :title => "Link with me" %></p>
+    26:   <p id="twitter">Tweet with me</p>
+    27:   <p id="github">Git with me</p>
+    28: </div>
+  app/views/landing_page/index.html.erb:25:in `_app_views_landing_page_index_html_erb__2580617480677124504_70247659736260'
+
+
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (10.1ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.2ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.8ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (37.1ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/_markup.html.erb (0.7ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.6ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.6ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/console.js.erb within layouts/javascript (32.5ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/main.js.erb within layouts/javascript (0.6ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.7ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/index.html.erb (65.8ms)
+
+
+Started GET "/" for ::1 at 2015-04-17 20:27:05 -0700
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (4.4ms)
+Completed 200 OK in 50ms (Views: 49.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/landing_page.self-7f43634b3e52d00537a56b0052863dc31ceb19bfaae3a7d0f46bd3dc4cb66cdb.css?body=1" for ::1 at 2015-04-17 20:27:05 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-17 20:27:05 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-17 20:27:05 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-04-17 20:27:05 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-17 20:27:05 -0700
+
+
+Started GET "/assets/landing_page.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-17 20:27:05 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-04-17 20:27:05 -0700
+
+
+Started GET "/assets/carlton-6ac7e0fdf583a2d1629fce1c92a78dd35a4e4994a6074d290a603603c3eb02cf.gif" for ::1 at 2015-04-17 20:27:05 -0700
+
+
+Started GET "/assets/danglingheart-da9366287c989098c3790f6836b58ccd177eae9a036ed07a7352bfa621110625.jpg" for ::1 at 2015-04-17 20:27:05 -0700
+
+
+Started GET "/" for ::1 at 2015-04-17 20:27:21 -0700
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (4.6ms)
+Completed 200 OK in 45ms (Views: 43.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-04-17 20:27:21 -0700
+
+
+Started GET "/assets/landing_page.self-7f43634b3e52d00537a56b0052863dc31ceb19bfaae3a7d0f46bd3dc4cb66cdb.css?body=1" for ::1 at 2015-04-17 20:27:21 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-17 20:27:21 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-17 20:27:21 -0700
+
+
+Started GET "/assets/landing_page.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-17 20:27:21 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-17 20:27:21 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-04-17 20:27:21 -0700
+
+
+Started GET "/assets/carlton-6ac7e0fdf583a2d1629fce1c92a78dd35a4e4994a6074d290a603603c3eb02cf.gif" for ::1 at 2015-04-17 20:27:21 -0700
+
+
+Started GET "/assets/danglingheart-da9366287c989098c3790f6836b58ccd177eae9a036ed07a7352bfa621110625.jpg" for ::1 at 2015-04-17 20:27:21 -0700
+
+
+Started GET "/" for ::1 at 2015-04-17 20:28:12 -0700
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (5.5ms)
+Completed 200 OK in 51ms (Views: 49.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/landing_page.self-7f43634b3e52d00537a56b0052863dc31ceb19bfaae3a7d0f46bd3dc4cb66cdb.css?body=1" for ::1 at 2015-04-17 20:28:12 -0700
+
+
+Started GET "/assets/landing_page.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-17 20:28:12 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-04-17 20:28:12 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-17 20:28:12 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-17 20:28:12 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-17 20:28:12 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-04-17 20:28:12 -0700
+
+
+Started GET "/assets/carlton-6ac7e0fdf583a2d1629fce1c92a78dd35a4e4994a6074d290a603603c3eb02cf.gif" for ::1 at 2015-04-17 20:28:12 -0700
+
+
+Started GET "/assets/danglingheart-da9366287c989098c3790f6836b58ccd177eae9a036ed07a7352bfa621110625.jpg" for ::1 at 2015-04-17 20:28:12 -0700
+
+
+Started GET "/" for ::1 at 2015-04-17 20:29:10 -0700
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (7.7ms)
+Completed 200 OK in 63ms (Views: 62.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-17 20:29:10 -0700
+
+
+Started GET "/assets/landing_page.self-7f43634b3e52d00537a56b0052863dc31ceb19bfaae3a7d0f46bd3dc4cb66cdb.css?body=1" for ::1 at 2015-04-17 20:29:10 -0700
+
+
+Started GET "/assets/landing_page.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-17 20:29:10 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-17 20:29:10 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-17 20:29:10 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-04-17 20:29:10 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-04-17 20:29:10 -0700
+
+
+Started GET "/assets/carlton-6ac7e0fdf583a2d1629fce1c92a78dd35a4e4994a6074d290a603603c3eb02cf.gif" for ::1 at 2015-04-17 20:29:10 -0700
+
+
+Started GET "/assets/danglingheart-da9366287c989098c3790f6836b58ccd177eae9a036ed07a7352bfa621110625.jpg" for ::1 at 2015-04-17 20:29:10 -0700
+
+
+Started GET "/landing_page/index?title=Link+with+me" for ::1 at 2015-04-17 20:29:30 -0700
+Processing by LandingPageController#index as HTML
+  Parameters: {"title"=>"Link with me"}
+  Rendered landing_page/index.html.erb within layouts/application (139.9ms)
+Completed 200 OK in 172ms (Views: 171.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/landing_page/index?title=Link+with+me" for ::1 at 2015-04-17 20:29:55 -0700
+Processing by LandingPageController#index as HTML
+  Parameters: {"title"=>"Link with me"}
+  Rendered landing_page/index.html.erb within layouts/application (4.1ms)
+Completed 200 OK in 38ms (Views: 36.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/landing_page.self-7f43634b3e52d00537a56b0052863dc31ceb19bfaae3a7d0f46bd3dc4cb66cdb.css?body=1" for ::1 at 2015-04-17 20:29:55 -0700
+
+
+Started GET "/assets/landing_page.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-17 20:29:55 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-17 20:29:55 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-17 20:29:55 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-17 20:29:55 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-04-17 20:29:55 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-04-17 20:29:55 -0700
+
+
+Started GET "/assets/carlton-6ac7e0fdf583a2d1629fce1c92a78dd35a4e4994a6074d290a603603c3eb02cf.gif" for ::1 at 2015-04-17 20:29:55 -0700
+
+
+Started GET "/assets/danglingheart-da9366287c989098c3790f6836b58ccd177eae9a036ed07a7352bfa621110625.jpg" for ::1 at 2015-04-17 20:29:55 -0700
+
+
+Started GET "/landing_page/index?title=www.linkedin.com%2Fin%2Fcatiek" for ::1 at 2015-04-17 20:29:58 -0700
+Processing by LandingPageController#index as HTML
+  Parameters: {"title"=>"www.linkedin.com/in/catiek"}
+  Rendered landing_page/index.html.erb within layouts/application (5.2ms)
+Completed 200 OK in 37ms (Views: 36.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/landing_page/index?title=www.linkedin.com%2Fin%2Fcatiek" for ::1 at 2015-04-17 20:32:01 -0700
+Processing by LandingPageController#index as HTML
+  Parameters: {"title"=>"www.linkedin.com/in/catiek"}
+  Rendered landing_page/index.html.erb within layouts/application (9.2ms)
+Completed 200 OK in 67ms (Views: 66.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/landing_page.self-7f43634b3e52d00537a56b0052863dc31ceb19bfaae3a7d0f46bd3dc4cb66cdb.css?body=1" for ::1 at 2015-04-17 20:32:01 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-17 20:32:01 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-17 20:32:01 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-17 20:32:01 -0700
+
+
+Started GET "/assets/landing_page.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-17 20:32:01 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-04-17 20:32:01 -0700
+
+
+Started GET "/assets/carlton-6ac7e0fdf583a2d1629fce1c92a78dd35a4e4994a6074d290a603603c3eb02cf.gif" for ::1 at 2015-04-17 20:32:01 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-04-17 20:32:01 -0700
+
+
+Started GET "/assets/danglingheart-da9366287c989098c3790f6836b58ccd177eae9a036ed07a7352bfa621110625.jpg" for ::1 at 2015-04-17 20:32:01 -0700
+
+
+Started GET "/landing_page/index?title=www.linkedin.com%2Fin%2Fcatiek" for ::1 at 2015-04-17 20:32:04 -0700
+Processing by LandingPageController#index as HTML
+  Parameters: {"title"=>"www.linkedin.com/in/catiek"}
+  Rendered landing_page/index.html.erb within layouts/application (4.3ms)
+Completed 200 OK in 140ms (Views: 139.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/landing_page/www.linkedin.com/in/catiek" for ::1 at 2015-04-17 20:32:09 -0700
+
+ActionController::RoutingError (No route matches [GET] "/landing_page/www.linkedin.com/in/catiek"):
+  actionpack (4.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.1.2) lib/web_console/middleware.rb:37:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.1) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.0) lib/rack/handler/webrick.rb:89:in `service'
+  /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.3ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.4ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (30.7ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.6ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/console.js.erb within layouts/javascript (25.5ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/main.js.erb within layouts/javascript (0.6ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/index.html.erb (49.9ms)
+
+
+Started GET "/landing_page/www.linkedin.com/in/catiek" for ::1 at 2015-04-17 20:32:09 -0700
+
+ActionController::RoutingError (No route matches [GET] "/landing_page/www.linkedin.com/in/catiek"):
+  actionpack (4.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.1.2) lib/web_console/middleware.rb:37:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.1) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.0) lib/rack/handler/webrick.rb:89:in `service'
+  /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.6ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.8ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.1ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (22.4ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/_markup.html.erb (0.6ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/console.js.erb within layouts/javascript (20.7ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/index.html.erb (42.4ms)
+
+
+Started GET "/landing_page/www.linkedin.com/in/catiek" for ::1 at 2015-04-17 20:32:47 -0700
+
+ActionController::RoutingError (No route matches [GET] "/landing_page/www.linkedin.com/in/catiek"):
+  actionpack (4.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.1.2) lib/web_console/middleware.rb:37:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.1) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.0) lib/rack/handler/webrick.rb:89:in `service'
+  /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.1ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.6ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.1ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (21.4ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/console.js.erb within layouts/javascript (16.3ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/index.html.erb (37.3ms)
+
+
+Started GET "/landing_page/" for ::1 at 2015-04-17 20:32:51 -0700
+
+ActionController::RoutingError (No route matches [GET] "/landing_page"):
+  actionpack (4.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.1.2) lib/web_console/middleware.rb:37:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.1) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.0) lib/rack/handler/webrick.rb:89:in `service'
+  /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.1ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.8ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.2ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (22.5ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/console.js.erb within layouts/javascript (95.1ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/index.html.erb (112.4ms)
+
+
+Started GET "/landing_page/" for ::1 at 2015-04-17 20:32:54 -0700
+
+ActionController::RoutingError (No route matches [GET] "/landing_page"):
+  actionpack (4.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.1.2) lib/web_console/middleware.rb:37:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.1) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.0) lib/rack/handler/webrick.rb:89:in `service'
+  /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.2ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.1ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.9ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (25.3ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/console.js.erb within layouts/javascript (16.8ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/index.html.erb (34.8ms)
+
+
+Started GET "/landing_page/" for ::1 at 2015-04-17 20:33:05 -0700
+
+ActionController::RoutingError (No route matches [GET] "/landing_page"):
+  actionpack (4.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.1.2) lib/web_console/middleware.rb:37:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.1) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.0) lib/rack/handler/webrick.rb:89:in `service'
+  /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.2ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.7ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.2ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (23.5ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/console.js.erb within layouts/javascript (16.0ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/caitlynkennedy/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/index.html.erb (33.7ms)
+
+
+Started GET "/" for ::1 at 2015-04-17 20:33:07 -0700
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (4.1ms)
+Completed 200 OK in 42ms (Views: 41.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/landing_page/index?title=Git+with+me" for ::1 at 2015-04-17 20:33:11 -0700
+Processing by LandingPageController#index as HTML
+  Parameters: {"title"=>"Git with me"}
+  Rendered landing_page/index.html.erb within layouts/application (3.7ms)
+Completed 200 OK in 30ms (Views: 29.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-04-17 20:40:02 -0700
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (29.1ms)
+Completed 200 OK in 416ms (Views: 412.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-04-17 20:40:02 -0700
+
+
+Started GET "/assets/landing_page.self-7f43634b3e52d00537a56b0052863dc31ceb19bfaae3a7d0f46bd3dc4cb66cdb.css?body=1" for ::1 at 2015-04-17 20:40:02 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-17 20:40:02 -0700
+
+
+Started GET "/assets/landing_page.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-17 20:40:02 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-17 20:40:02 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-17 20:40:02 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-04-17 20:40:02 -0700
+
+
+Started GET "/assets/carlton-6ac7e0fdf583a2d1629fce1c92a78dd35a4e4994a6074d290a603603c3eb02cf.gif" for ::1 at 2015-04-17 20:40:02 -0700
+
+
+Started GET "/assets/danglingheart-da9366287c989098c3790f6836b58ccd177eae9a036ed07a7352bfa621110625.jpg" for ::1 at 2015-04-17 20:40:02 -0700
+
+
+Started GET "/" for ::1 at 2015-04-17 20:40:44 -0700
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 38ms (Views: 36.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-04-17 20:40:45 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-17 20:40:45 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-17 20:40:45 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-17 20:40:45 -0700
+
+
+Started GET "/assets/landing_page.self-7f43634b3e52d00537a56b0052863dc31ceb19bfaae3a7d0f46bd3dc4cb66cdb.css?body=1" for ::1 at 2015-04-17 20:40:45 -0700
+
+
+Started GET "/assets/landing_page.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-17 20:40:45 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-04-17 20:40:45 -0700
+
+
+Started GET "/assets/carlton-6ac7e0fdf583a2d1629fce1c92a78dd35a4e4994a6074d290a603603c3eb02cf.gif" for ::1 at 2015-04-17 20:40:45 -0700
+
+
+Started GET "/assets/danglingheart-da9366287c989098c3790f6836b58ccd177eae9a036ed07a7352bfa621110625.jpg" for ::1 at 2015-04-17 20:40:45 -0700
+
+
+Started GET "/" for ::1 at 2015-04-17 20:41:21 -0700
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 171ms (Views: 169.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/landing_page.self-b0d2120c80887ff4a6afd22e833ee7e456705e996a903b61735602fb90106bdb.css?body=1" for ::1 at 2015-04-17 20:41:21 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-04-17 20:41:21 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-17 20:41:21 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-17 20:41:21 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-04-17 20:41:21 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-17 20:41:21 -0700
+
+
+Started GET "/assets/landing_page.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-17 20:41:21 -0700
+
+
+Started GET "/assets/carlton-6ac7e0fdf583a2d1629fce1c92a78dd35a4e4994a6074d290a603603c3eb02cf.gif" for ::1 at 2015-04-17 20:41:21 -0700
+
+
+Started GET "/assets/danglingheart-da9366287c989098c3790f6836b58ccd177eae9a036ed07a7352bfa621110625.jpg" for ::1 at 2015-04-17 20:41:21 -0700
+
+
+Started GET "/" for ::1 at 2015-04-17 20:41:35 -0700
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 178ms (Views: 176.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/landing_page.self-db26181153911cd5ae3513d3a93b2f83999127c856e0652860e32375d3f63754.css?body=1" for ::1 at 2015-04-17 20:41:35 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-04-17 20:41:35 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-17 20:41:35 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-17 20:41:35 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-17 20:41:35 -0700
+
+
+Started GET "/assets/landing_page.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-17 20:41:35 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-04-17 20:41:35 -0700
+
+
+Started GET "/assets/carlton-6ac7e0fdf583a2d1629fce1c92a78dd35a4e4994a6074d290a603603c3eb02cf.gif" for ::1 at 2015-04-17 20:41:35 -0700
+
+
+Started GET "/assets/danglingheart-da9366287c989098c3790f6836b58ccd177eae9a036ed07a7352bfa621110625.jpg" for ::1 at 2015-04-17 20:41:35 -0700
+
+
+Started GET "/" for ::1 at 2015-04-17 20:42:40 -0700
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (16.3ms)
+Completed 200 OK in 452ms (Views: 446.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-04-17 20:42:41 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-17 20:42:41 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-17 20:42:41 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-04-17 20:42:41 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-17 20:42:41 -0700
+
+
+Started GET "/assets/landing_page.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-17 20:42:41 -0700
+
+
+Started GET "/assets/carlton-6ac7e0fdf583a2d1629fce1c92a78dd35a4e4994a6074d290a603603c3eb02cf.gif" for ::1 at 2015-04-17 20:42:41 -0700
+
+
+Started GET "/assets/landing_page.self-2cd0a5ba7e92fd123f804ef9351d82bdbd28402bd5bbd8fff6a843d6fe2564e5.css?body=1" for ::1 at 2015-04-17 20:42:41 -0700
+
+
+Started GET "/assets/danglingheart-da9366287c989098c3790f6836b58ccd177eae9a036ed07a7352bfa621110625.jpg" for ::1 at 2015-04-17 20:42:41 -0700
+
+
+Started GET "/" for ::1 at 2015-04-17 20:42:42 -0700
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (103.7ms)
+Completed 200 OK in 141ms (Views: 140.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-17 20:42:42 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-04-17 20:42:42 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-17 20:42:42 -0700
+
+
+Started GET "/assets/landing_page.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-17 20:42:42 -0700
+
+
+Started GET "/assets/landing_page.self-2cd0a5ba7e92fd123f804ef9351d82bdbd28402bd5bbd8fff6a843d6fe2564e5.css?body=1" for ::1 at 2015-04-17 20:42:42 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-17 20:42:42 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-04-17 20:42:42 -0700
+
+
+Started GET "/assets/carlton-6ac7e0fdf583a2d1629fce1c92a78dd35a4e4994a6074d290a603603c3eb02cf.gif" for ::1 at 2015-04-17 20:42:42 -0700
+
+
+Started GET "/assets/danglingheart-da9366287c989098c3790f6836b58ccd177eae9a036ed07a7352bfa621110625.jpg" for ::1 at 2015-04-17 20:42:42 -0700
+
+
+Started GET "/" for ::1 at 2015-04-17 20:43:16 -0700
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (4.2ms)
+Completed 200 OK in 208ms (Views: 206.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/landing_page.self-a78b4d010520ca7805d2a3ae0d89f662d6eebbc37f53dd1cd048f5bc27b6afac.css?body=1" for ::1 at 2015-04-17 20:43:16 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-17 20:43:16 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-04-17 20:43:16 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-17 20:43:16 -0700
+
+
+Started GET "/assets/landing_page.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-17 20:43:16 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-17 20:43:16 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-04-17 20:43:16 -0700
+
+
+Started GET "/assets/carlton-6ac7e0fdf583a2d1629fce1c92a78dd35a4e4994a6074d290a603603c3eb02cf.gif" for ::1 at 2015-04-17 20:43:16 -0700
+
+
+Started GET "/assets/danglingheart-da9366287c989098c3790f6836b58ccd177eae9a036ed07a7352bfa621110625.jpg" for ::1 at 2015-04-17 20:43:16 -0700
+
+
+Started GET "/" for ::1 at 2015-04-17 20:43:33 -0700
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 166ms (Views: 165.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/landing_page.self-c8e3b390ca297d35ddeac6cbea2cb12b2071321bced79e97d8edfdeedd698923.css?body=1" for ::1 at 2015-04-17 20:43:33 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-04-17 20:43:33 -0700
+
+
+Started GET "/assets/landing_page.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-17 20:43:33 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-17 20:43:33 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-17 20:43:33 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-04-17 20:43:33 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-17 20:43:33 -0700
+
+
+Started GET "/assets/carlton-6ac7e0fdf583a2d1629fce1c92a78dd35a4e4994a6074d290a603603c3eb02cf.gif" for ::1 at 2015-04-17 20:43:33 -0700
+
+
+Started GET "/assets/danglingheart-da9366287c989098c3790f6836b58ccd177eae9a036ed07a7352bfa621110625.jpg" for ::1 at 2015-04-17 20:43:33 -0700
+
+
+Started GET "/" for ::1 at 2015-04-17 20:43:59 -0700
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 198ms (Views: 196.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/landing_page.self-d2f6956668464e26d939471a282381ff4dcd62a4c5026408b55bae92e3b1cbbb.css?body=1" for ::1 at 2015-04-17 20:43:59 -0700
+
+
+Started GET "/assets/landing_page.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-17 20:43:59 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-04-17 20:43:59 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-17 20:43:59 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-17 20:43:59 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-17 20:43:59 -0700
+
+
+Started GET "/assets/carlton-6ac7e0fdf583a2d1629fce1c92a78dd35a4e4994a6074d290a603603c3eb02cf.gif" for ::1 at 2015-04-17 20:43:59 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-04-17 20:43:59 -0700
+
+
+Started GET "/assets/danglingheart-da9366287c989098c3790f6836b58ccd177eae9a036ed07a7352bfa621110625.jpg" for ::1 at 2015-04-17 20:43:59 -0700
+
+
+Started GET "/" for ::1 at 2015-04-17 20:45:33 -0700
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (11.7ms)
+Completed 200 OK in 249ms (Views: 248.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/landing_page.self-0e5e1d5e450ad86169b80d0fce9fd5a0df32f5590d9d23a632d506439c508d54.css?body=1" for ::1 at 2015-04-17 20:45:33 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-04-17 20:45:33 -0700
+
+
+Started GET "/assets/landing_page.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-17 20:45:33 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-17 20:45:33 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-17 20:45:33 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-17 20:45:33 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-04-17 20:45:33 -0700
+
+
+Started GET "/assets/carlton-6ac7e0fdf583a2d1629fce1c92a78dd35a4e4994a6074d290a603603c3eb02cf.gif" for ::1 at 2015-04-17 20:45:33 -0700
+
+
+Started GET "/assets/danglingheart-da9366287c989098c3790f6836b58ccd177eae9a036ed07a7352bfa621110625.jpg" for ::1 at 2015-04-17 20:45:33 -0700

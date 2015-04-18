@@ -38,3 +38,22 @@ body {
 .carlton {
   text-align: center;
 }
+
+.links {
+  text-align: center;
+  font-size: 2em;
+  font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+.links :link {
+  color: white;
+}
+
+.links :active {
+  color: white;
+  cursor: pointer;
+}
+
+.links :visited {
+  color: white;
+}
