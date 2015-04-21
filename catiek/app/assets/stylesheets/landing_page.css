@@ -44,23 +44,17 @@ body {
   font-size: 3em;
 }
 
-.strip {
-  background-color: white;
-  color: black;
-  font-weight: 300;
-  width: 300px;
-}
 
 #glitter {
-  background-image: url("glitterrr.jpg");
-  color: black;
-  font-family: 'Alegreya Sans SC', sans-serif;
+  /*background-image: url("twinkling2");*/
+  color: white;
+  font-family: 'Londrina Outline', cursive;
   font-size: 35px;
   width: 400px;
-  padding: 1em;
   text-align: center;
   margin-right: auto;
   margin-left: auto;
+  /*border: 2px solid white;*/
 }
 
 .petals {
@@ -69,6 +63,13 @@ body {
   padding: 1em;
   font-family: 'Londrina Outline', cursive;
   font-size: 2em;
+}
+
+.shake {
+  font-family: 'Londrina Outline', cursive;
+  font-size: 5em;
+  background-color: black;
+  color: white;
 }
 
 .contact {
