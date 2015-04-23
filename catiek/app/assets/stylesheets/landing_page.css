@@ -76,11 +76,10 @@ body {
 }
 
 #shaker {
-  height: 100px;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
-  border: 2px solid white;
+  /*border: 2px solid white;*/
 }
 
 .big {

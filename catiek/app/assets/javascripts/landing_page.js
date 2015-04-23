@@ -1,4 +1,5 @@
 $(document).ready(function() {
+  console.log("here");
 
   // $('#shake').hover(function(){
   //     if(!$(this).hasClass('animated')){
@@ -26,4 +27,5 @@ $(document).ready(function() {
     $('#shaker').effect( "shake" )
   });
   console.log("here");
+
 });
