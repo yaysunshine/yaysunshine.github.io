@@ -1,0 +1,17 @@
+body {
+  color: purple;
+
+}
+
+h1 {
+  font-size: 3em;
+}
+
+nav {
+  width: 20%;
+  float: left;
+  display: inline;
+  margin: 0;
+  padding: 0;
+  margin-right: 10px;
+}
